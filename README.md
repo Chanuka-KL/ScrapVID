@@ -18,8 +18,8 @@
 ### Installation Steps
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Chanuka-KL/ScrapVid.git
-   cd ScrapVid
+   git clone https://github.com/Chanuka-KL/ScrapVID.git
+   cd ScrapVID
    ```
 
 2. **Install dependencies**:
